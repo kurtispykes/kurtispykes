@@ -1,11 +1,9 @@
 ### 👋Hi, I'm Kurtis Pykes
-I design, build, and deploy machine learning applications. Currently, I'm a freelancer and I create content to equip machine learning enthusiast with the necessary resources
-to fulfill their potential. Outside of work, I enjoy to... 
+I'm a self-taught machine learning engineer working as a freelancer. I have a keen interest in designing, building, and deploying machine learning applications, as well as writing. Outside of work, I enjoy... 
 
-* ⚽ Play Football with friends
-* 🤸 Do calisthenics - I usually train with repititions with or without weight, but I have dabbled in freestyle and static calisthenics
-* 📚 Read lots of books - I'm building my own library
-* ♟️ Play chess online
+* ⚽ Play Football and watching Chelsea FC (The best club in the world.)
+* 🤸 Calisthenics - my preferred style of exercise
+* 📚 Reading.
 * 😅 Interesting Fact: I'm a cult defector
 
 ### ✍️📝Writing
@@ -14,9 +12,5 @@ to fulfill their potential. Outside of work, I enjoy to...
 * [Best Practices for Data Science Project Workflows and File Organization](https://neptune.ai/blog/best-practices-for-data-science-project-workflows-and-file-organizations) - 20th July 2021
 * [How to Design a Machine Learning System](https://medium.com/geekculture/how-to-design-a-machine-learning-system-89d806ff3d3b) - 5th Sept 2021
 
-
 ### 📬Connect with Me📬
-* [LinkedIn](https://www.linkedin.com/in/kurtispykes/)
-* [Medium](https://kurtispykes.medium.com/)
-* [Twitter](https://twitter.com/kurtispykes)
-* [UpWork](https://www.upwork.com/freelancers/~0157a38fddc73f4582)
+I am **not accessible** on the common social media platforms (i.e. Twitter, Instagram, LinkedIn, Facebook, etc) - For more information about methods of reaching me, please visit my Medium [About Me](https://medium.com/pykes-notes/about-kurtis-pykes-2021-e2064a7d4474) page. 
