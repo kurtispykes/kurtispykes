@@ -1,7 +1,7 @@
 ### 👋Hi, I'm Kurtis Pykes
 I'm a self-taught machine learning engineer working as a freelancer. I have a keen interest in designing, building, and deploying machine learning applications, as well as writing. Outside of work, I enjoy... 
 
-* ⚽ Play Football and watching Chelsea FC (The best club in the world.)
+* ⚽ Playing football and watching Chelsea FC (The best club in the world.)
 * 🤸 Calisthenics - my preferred style of exercise
 * 📚 Reading.
 * 😅 Interesting Fact: I'm a cult defector
