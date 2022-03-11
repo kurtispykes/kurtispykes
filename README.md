@@ -4,7 +4,6 @@ I'm a self-taught machine learning engineer working as a freelancer. I have a ke
 * ⚽ Playing football and watching Chelsea FC (The best club in the world.)
 * 🤸 Calisthenics - my preferred style of exercise
 * 📚 Reading.
-* 😅 Interesting Fact: I'm a cult defector
 
 ### ✍️📝Writing
 * [Building Reproducible Machine Learning Pipelines](https://towardsdatascience.com/building-reproducible-machine-learning-pipelines-c80407c4319f) - 17th June 2021
@@ -13,4 +12,8 @@ I'm a self-taught machine learning engineer working as a freelancer. I have a ke
 * [How to Design a Machine Learning System](https://medium.com/geekculture/how-to-design-a-machine-learning-system-89d806ff3d3b) - 5th Sept 2021
 
 ### 📬Connect with Me📬
-I am **not accessible** on the common social media platforms (i.e. Twitter, Instagram, LinkedIn, Facebook, etc) - For more information about methods of reaching me, please visit my Medium [About Me](https://medium.com/pykes-notes/about-kurtis-pykes-2021-e2064a7d4474) page. 
+[Twitter](twitter.com/kurtispykes)
+[LinkedIn](linkedin.com/in/kurtispykes)
+[Medium](kurtispykes.medium.com)
+[TikTok](tiktok.com/@kurtispykes)
+[Instagram](kurtispykes.com/kurtispykes)
