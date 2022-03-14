@@ -15,4 +15,5 @@ I'm a self-taught machine learning engineer working as a freelancer. I have a ke
 * [Twitter](twitter.com/kurtispykes)
 * [LinkedIn](linkedin.com/in/kurtispykes)
 * [Medium](kurtispykes.medium.com)
+* [Instagram](https://www.instagram.com/kurtispykes/)
 
