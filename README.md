@@ -12,8 +12,8 @@ I'm a self-taught machine learning engineer working as a freelancer. I have a ke
 * [How to Design a Machine Learning System](https://medium.com/geekculture/how-to-design-a-machine-learning-system-89d806ff3d3b) - 5th Sept 2021
 
 ### 📬Connect with Me📬
-* [Twitter](twitter.com/kurtispykes)
-* [LinkedIn](linkedin.com/in/kurtispykes)
-* [Medium](kurtispykes.medium.com)
+* [Twitter](https://twitter.com/KurtisPykes)
+* [LinkedIn](https://www.linkedin.com/in/kurtispykes/)
+* [Medium](https://kurtispykes.medium.com/)
 * [Instagram](https://www.instagram.com/kurtispykes/)
 
